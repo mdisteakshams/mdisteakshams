@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Md Isteak Shams</h1>
-<h3 align="center">Junior Software Engineer(Intern) at LEADS Corporation</h3>
+<h3 align="center">Junior Software Engineer at LeadSoft Bangladesh Limited</h3>
 <img align="right" alt="Coding" width="400" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExajFjNnFsYWI4b3d1dnhkb21tNHgzMGE5cmI0ZzV6MWs1M28wY3RxMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mdisteakshams&label=Profile%20views&color=0e75b6&style=flat" alt="mdisteakshams" /> </p>
